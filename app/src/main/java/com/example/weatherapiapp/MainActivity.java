@@ -375,7 +375,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     class DownloadWeather extends AsyncTask<String, Void, String[]> {
 
         //OpenWeatherMap API key
-        String OPEN_WEATHER_MAP_API = "8ee3713483d0844cffe6a2689db6b17f";
+        String OPEN_WEATHER_MAP_API = "API KEY HERE";
 
         @Override
         protected void onPreExecute() {
